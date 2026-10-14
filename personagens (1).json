@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Mabel Pines",
+    "image": "img/mabel.png",
+    "quote": "Irmã gêmea do Dipper, otimista, cheia de suéteres e dona do porquinho Waddles.",
+    "episode": "Tourist Trapped"
+  },
+  {
+    "id": 2,
+    "name": "Dipper Pines",
+    "image": "img/dipper.png",
+    "quote": "Curioso e desconfiado, vive investigando os mistérios da cidade com o Diário 3.",
+    "episode": "Tourist Trapped"
+  },
+  {
+    "id": 3,
+    "name": "Soos Ramirez",
+    "image": "img/soos.png",
+    "quote": "Faz-tudo da Cabana do Mistério, gentil e sempre disposto a ajudar.",
+    "episode": "Tourist Trapped"
+  },
+  {
+    "id": 4,
+    "name": "Stanley Pines",
+    "image": "img/stanley.png",
+    "quote": "O Tio Stan, dono da Cabana do Mistério e especialista em enganar turistas.",
+    "episode": "Tourist Trapped"
+  },
+  {
+    "id": 5,
+    "name": "Stanford Pines",
+    "image": "img/stanford.png",
+    "quote": "Irmão gêmeo do Stan, cientista e autor dos diários.",
+    "episode": "Not What He Seems"
+  },
+  {
+    "id": 6,
+    "name": "Pacifica Northwest",
+    "image": "img/pacifica.png",
+    "quote": "Herdeira da família mais rica da cidade e rival da Mabel.",
+    "episode": "Double Dipper"
+  },
+  {
+    "id": 7,
+    "name": "Bill Cipher",
+    "image": "img/bill.png",
+    "quote": "Demônio triangular dos sonhos, o grande vilão da série.",
+    "episode": "Dreamscaperers"
+  },
+  {
+    "id": 8,
+    "name": "Wendy Corduroy",
+    "image": "img/wendy.png",
+    "quote": "Adolescente descolada que trabalha no caixa da Cabana do Mistério.",
+    "episode": "Tourist Trapped"
+  },
+  {
+    "id": 9,
+    "name": "Gideon Gleeful",
+    "image": "img/gideon.png",
+    "quote": "Vidente mirim que finge ser fofo, mas quer tomar a Cabana do Mistério.",
+    "episode": "The Hand That Rocks the Mabel"
+  },
+  {
+    "id": 10,
+    "name": "Waddles",
+    "image": "img/waddles.png",
+    "quote": "O porquinho de estimação da Mabel, ganho na feira da cidade.",
+    "episode": "The Time Traveler's Pig"
+  }
+]
